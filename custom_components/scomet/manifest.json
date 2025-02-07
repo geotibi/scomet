@@ -1,0 +1,13 @@
+{
+    "domain": "scomet",
+    "name": "Scomet: Administrăm confortul",
+    "requirements": ["requests", "beautifulsoup4"],
+    "codeowners": ["@geotibi"],
+    "dependencies": [],
+    "documentation": "https://github.com/geotibi/scomet",
+    "iot_class": "cloud_polling",
+    "issue_tracker": "https://github.com/geotibi/scomet/issues",
+    "supported_platforms": ["sensor", "button"],
+    "config_flow": true,
+    "version": "2025.2.1"
+}
